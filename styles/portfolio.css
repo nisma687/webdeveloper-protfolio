@@ -151,6 +151,16 @@ flex-direction: column;
     text-align: center;
     color: #757575;
 }
+.info-description
+{
+    color: #474747;
+    
+}
+
+#what-i-do
+{
+    padding: 10px 150px;
+}
 .about-info-container
 {
     
