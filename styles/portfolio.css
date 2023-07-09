@@ -5,6 +5,8 @@ nav{
     display:flex;
     justify-content: space-between;
     align-items: center;
+    margin-left: 150px;
+    margin-right: 120px;
 }
 
 .text-primary
@@ -27,6 +29,13 @@ font-size: 45px;
 
 font-weight: 800;
 
+}
+
+/* header related styles */
+.header
+{
+    background-color: #FFF8F3;
+   
 }
 
 nav> ul
@@ -59,4 +68,17 @@ font-size: 20px;
 font-style: normal;
 font-weight: 700;
 padding:15px 30px;
+}
+
+.banner
+{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+banner .banner-image
+{
+    width: 500px;
+
 }
